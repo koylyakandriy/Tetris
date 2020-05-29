@@ -1,2 +1,0 @@
-# Tetris
-Created with CodeSandbox
